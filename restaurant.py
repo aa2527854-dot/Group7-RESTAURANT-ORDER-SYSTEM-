@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from Order import Order
 
 
@@ -98,8 +97,3 @@ class Restaurant:
                 f"Most Ordered Item : {most_ordered}"
             )
 
-=======
-# Student_Name:
-#     1.Bandar Msfer
-#     2.Abdullah Alshehri.
->>>>>>> d18b7719d4907e3e21dead826f6f7e745d6af4ad
